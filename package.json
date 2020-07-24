@@ -1,0 +1,25 @@
+{
+  "name": "drawinggame",
+  "version": "1.0.0",
+  "description": "Module drawing game in nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daklyan/DrawingGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daklyan/DrawingGame/issues"
+  },
+  "homepage": "https://github.com/Daklyan/DrawingGame#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "express": "^4.17.1",
+    "p5": "^1.1.9",
+    "socket.io": "^2.3.0"
+  }
+}
